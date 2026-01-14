@@ -1,4 +1,4 @@
-# Rule-Based PDF Data Extraction CLI
+# Rule-Based Data Extraction CLI
 
 
 <img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 04_47_20 PM" src="https://github.com/user-attachments/assets/29481811-f372-4b87-8c50-d30b3997fdd2" />
